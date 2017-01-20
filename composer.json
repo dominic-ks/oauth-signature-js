@@ -1,4 +1,11 @@
 {
     "require": {
+        "dominic-ks/oauth-signature-js": "*"
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/dominic-ks/oauth-signature-js"
+        }
+    ]
 }
